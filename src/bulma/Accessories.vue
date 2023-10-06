@@ -19,7 +19,7 @@
 
 <script>
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
-import { EnsoTabs as Tabs } from '@enso-ui/tabs/bulma';
+import { EnsoTabs as Tabs } from '@liberu-ui/tabs/bulma';
 
 export default {
     name: 'Accessories',
