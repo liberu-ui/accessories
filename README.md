@@ -1,10 +1,10 @@
 # Accessories
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/accessories.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/accessories.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/accessories.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/accessories.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/accessories.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/accessories.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/accessories.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/accessories.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/accessories.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/accessories.svg) 
 
 Accessories
 
