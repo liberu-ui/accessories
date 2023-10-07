@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/accessories",
-  "version": "4.0.14",
+  "version": "4.0.15",
   "description": "Accessories",
   "main": "index.ts",
   "scripts": {
